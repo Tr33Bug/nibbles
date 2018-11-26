@@ -24,6 +24,8 @@ void setup() {
   
   digitalWrite(SWITCH_GROUND_3, HIGH); //[0][2] --> IF LOW
   digitalWrite(SWITCH_GROUND_4, HIGH);  //[0][3] --> IF LOW
+  analogWrite(LED_GREEN, 40);
+  
 
 
 }
@@ -67,5 +69,7 @@ void loop() {
     delayMicroseconds(100);
 
   }
+  
+  
 
 }
