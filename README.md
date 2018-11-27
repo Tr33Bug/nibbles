@@ -4,7 +4,7 @@
 >
 > Project by Nota and Tr33. 
 
-[TOC]
+
 
 ## Hardware
 
