@@ -1,4 +1,4 @@
-# Nibbles
+# Nibbles²
 
 > A nibble by nibble LED-Button-Matrix. 
 >
@@ -20,7 +20,7 @@ Project_Status: Prototyping!
 
 ## Code
 
-goto /nibbles/src/main.cpp
+https://github.com/Tr33Bug/nibbles/blob/master/src/main.cpp 
 
 ## Pictures
 
@@ -31,3 +31,6 @@ goto /nibbles/src/main.cpp
 ![](https://raw.githubusercontent.com/Tr33Bug/nibbles/master/pictures/IMG_2018_3.jpg)
 
 ## Inspirations and Sources
+
+- melomuse : http://seniorproject.ross.org/2015/wgreenberg15/
+- Adafruits Trellis : https://learn.adafruit.com/adafruit-trellis-diy-open-source-led-keypad/overview
